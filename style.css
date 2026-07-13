@@ -1,0 +1,33 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+background:#000;
+color:#00ff66;
+font-family:Consolas,monospace;
+overflow:hidden;
+}
+
+canvas{
+position:fixed;
+inset:0;
+z-index:-1;
+}
+
+#terminal{
+padding:20px;
+font-size:18px;
+text-shadow:0 0 8px #00ff66;
+line-height:1.4;
+}
+
+.cursor{
+animation:blink .6s infinite;
+}
+
+@keyframes blink{
+50%{opacity:0;}
+}
