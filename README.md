@@ -1,33 +1,15 @@
-# Hacker-numver
 
-👋 Hi, I’m みんな
+# Hacker Screen
 
-> booting profile...
-> loading developer...
-> status: ONLINE
-> welcome!
+映画風のハッカー画面を再現したデモです。
 
-💻 About Me
+## Features
 
-* 🌱 Learning HTML, CSS, JavaScript, Python & Luau
-* 🎮 I like making games and websites.
-* 🚀 Building fun projects on GitHub.
-* ⚡ Always learning something new.
+- Matrix風背景
+- 高速ログ表示
+- ランダムIP生成
+- レスポンシブ対応
 
-🛠️ Languages
+## Run
 
-* HTML
-* CSS
-* JavaScript
-* Python
-* Luau (Roblox)
-
-📂 Current Projects
-
-* 💻 Hacker Screen
-* 🏫 3D School
-* 🌐 Web Projects
-
-⸻
-
-“Keep building. Keep learning.”
+index.html をブラウザで開くだけです。
